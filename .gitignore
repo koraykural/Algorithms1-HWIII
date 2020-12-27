@@ -1,0 +1,8 @@
+other_files/
+.vscode/
+*.exe
+*.out
+test.*
+README.txt
+report/
+*.zip
